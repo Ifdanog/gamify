@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "/game-58.webp",
+    "title": "Stream 1"
+  },
+  {
+    "id": 2,
+    "image": "/game-69.webp",
+    "title": "Stream 2"
+  },
+  {
+    "id": 3,
+    "image": "/game-138.webp",
+    "title": "Stream 3"
+  },
+  {
+    "id": 4,
+    "image": "/game-156.webp",
+    "title": "Stream 4"
+  },
+  {
+    "id": 5,
+    "image": "/game-158.webp",
+    "title": "Stream 5"
+  },
+  {
+    "id": 6,
+    "image": "/game-189.webp",
+    "title": "Stream 6"
+  }
+]
